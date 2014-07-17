@@ -1,0 +1,23 @@
+body {
+	background-color: #CDCDC1;
+
+}
+
+nav {
+	background-color: #191970;
+	padding: 10px;
+	border-radius: 3px;
+
+}
+
+nav a {
+	text-decoration:none;
+}
+
+nav span {
+	background-color: #ffd700;
+	font-size: 150%;
+	padding: 2px 5px;
+	margin-left: 5px;
+
+}
